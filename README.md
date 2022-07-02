@@ -1,1 +1,1 @@
-# Solar-Transformer
+# Solar Transformer
