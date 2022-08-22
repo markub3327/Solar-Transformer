@@ -27,14 +27,14 @@ Solar irradiance + Weather (temperature, humidity, pressure, wind speed, wind di
 ## Model
 
 <p align="center">
-  <img src="img/Solar_Transformer.png" style="background-color: white;">
+  <img src="img/Solar_Transformer.png" style="background-color: white !important;">
 </p>
 
 ## Results
 
 <p align="center">
   <b>Forecasting</b>
-  <img src="img/output.png" style="background-color: white;">
+  <img src="img/output.png" style="background-color: white !important;">
 </p>
 
 ----------------------------------
