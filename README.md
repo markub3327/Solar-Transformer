@@ -1,5 +1,4 @@
 # Solar Transformer
-Solar Irradiance Forecasting with Transformer model
 
 Please check our paper [Solar Irradiance Forecasting with Transformer model
 ](XXX) for more details.
