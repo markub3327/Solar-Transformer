@@ -3,7 +3,6 @@
 Please check our paper [Solar Irradiance Forecasting with Transformer model
 ](XXX) for more details.
 
-![Tag](https://img.shields.io/github/v/tag/markub3327/Solar-Transformer)
 [![Issues](https://img.shields.io/github/issues/markub3327/Solar-Transformer)](https://github.com/markub3327/Solar-Transformer/issues)
 ![Commits](https://img.shields.io/github/commit-activity/w/markub3327/Solar-Transformer)
 ![Size](https://img.shields.io/github/repo-size/markub3327/Solar-Transformer)
