@@ -30,6 +30,13 @@ Solar irradiance + Weather (temperature, humidity, pressure, wind speed, wind di
   <img src="img/Solar_Transformer.png" style="background-color: white;">
 </p>
 
+## Results
+
+<p align="center">
+  <b>Forecasting</b>
+  <img src="img/output.png" style="background-color: white;">
+</p>
+
 ----------------------------------
 
 **Frameworks:** TensorFlow, NumPy, Pandas, WanDB, Seaborn, Matplotlib
