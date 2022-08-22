@@ -17,9 +17,13 @@ Please check our paper [Solar Irradiance Forecasting with Transformer model
 
 ## About
 
+Solar energy is one of the most popular sources of renewable energy today. It is therefore essential to be able to predict solar power generation and adapt the energy needs to these predictions. This paper uses Transformer deep neural network model, in which the attention mechanism is typically applied in NLP or vision problems. Here it is extended by combining features based on their spatio-temporal properties in solar irradiance prediction. The results were predicted for arbitrary long-time horizons since the prediction is always 1 day ahead, which can be included at the end along the timestep axis of the input data and the first timestep representing the oldest timestep removed. A maximum worst-case mean absolute percentage error of 3.45% for the 1 day-ahead prediction was achieved, thus providing better results than the directly competing method.
+
 ## Dataset
 
 [NASA POWER Project](https://power.larc.nasa.gov)
+
+Solar irradiance + Weather
 
 ## Model
 
