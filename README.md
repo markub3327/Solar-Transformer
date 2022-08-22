@@ -23,7 +23,7 @@ Solar energy is one of the most popular sources of renewable energy today. It is
 
 [NASA POWER Project](https://power.larc.nasa.gov)
 
-Solar irradiance + Weather
+Solar irradiance + Weather (temperature, humidity, pressure)
 
 ## Model
 
