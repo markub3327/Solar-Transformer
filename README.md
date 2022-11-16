@@ -1,7 +1,7 @@
 # Solar Transformer
 
 Please check our paper [Solar Irradiance Forecasting with Transformer model
-](XXX) for more details.
+](https://www.mdpi.com/2076-3417/12/17/8852) for more details.
 
 [![Issues](https://img.shields.io/github/issues/markub3327/Solar-Transformer)](https://github.com/markub3327/Solar-Transformer/issues)
 ![Commits](https://img.shields.io/github/commit-activity/w/markub3327/Solar-Transformer)
